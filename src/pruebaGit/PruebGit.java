@@ -9,5 +9,8 @@ public class PruebGit {
 		if (numero == 0) {
 			System.out.println("el nuemro es 0");
 		}
+		else if(numero == 1) {
+			System.out.println("el numero es 1");
+		}
 	}
 }
